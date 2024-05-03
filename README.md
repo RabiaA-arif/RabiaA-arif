@@ -1,4 +1,4 @@
-![logo](https://github.com/RabiaA-arif/RabiaA-arif/blob/main/baner.png)
+<img src="https://github.com/RabiaA-arif/RabiaA-arif/raw/main/baner.png" alt="Banner" width="400" height="200">
 <h1 align="center">Hi 👋, I'm Rabia Arif</h1>
 <h3 align="center">Python Enthusiast | Java Apprentice | Aspiring Web Developer"</h3>
 <img  align="right" alt="coding" width="400" src="https://github.com/RabiaA-arif/RabiaA-arif/blob/main/avento.gif">
