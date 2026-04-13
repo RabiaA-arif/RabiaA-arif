@@ -1,19 +1,17 @@
 <img src="https://github.com/RabiaA-arif/RabiaA-arif/raw/main/baner.png" alt="Banner" width="1000" height="350">
-<h1 align="center">Hi 👋, I'm Rabia Arif</h1>
-<h3 align="center">Python Enthusiast | Java Apprentice | Aspiring Web Developer"</h3>
+<h1 align="center">Hi 👋, Rabia Arif Here </h1>
+<h3 align="center">Python| Java Apprentice | ML Engineer"</h3>
 <img  align="right" alt="coding" width="400" src="https://github.com/RabiaA-arif/RabiaA-arif/blob/main/avento.gif">
 
-- 🔭 I’m currently working on **Blood Donation System**
+- 🔭 I’m currently working on **MY ML Projects**
 
-- 🌱 I’m currently learning **OOPs in java**
+- 🌱 I’m currently learning **MLOops**
 
 - 👨‍💻 All of my projects are available at [https://www.linkedin.com/in/rabia-arif-80a01326b/](https://www.linkedin.com/in/rabia-arif-80a01326b/)
 
-- 📝 I regularly write articles on [https://wordpress.com/home/rabiaarif05.wordpress.com](https://wordpress.com/home/rabiaarif05.wordpress.com)
+- 📫 How to reach me **rabiaarifai55@gmail.com**
 
-- 📫 How to reach me **rabiaarif1033@gmail.com**
-
-- ⚡ Fun fact **I am good in pressure handling**
+- ⚡ Fun fact **I am good in listening and understanding**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
