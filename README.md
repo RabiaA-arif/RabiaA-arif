@@ -1,6 +1,6 @@
 <img src="https://github.com/RabiaA-arif/RabiaA-arif/raw/main/baner.png" alt="Banner" width="1000" height="350">
 <h1 align="center">Hi 👋, Rabia Arif Here </h1>
-<h3 align="center">Python| Java Apprentice | ML Engineer"</h3>
+<h3 align="center">Python | ML Engineer"</h3>
 <img  align="right" alt="coding" width="400" src="https://github.com/RabiaA-arif/RabiaA-arif/blob/main/avento.gif">
 
 - 🔭 I’m currently working on **MY ML Projects**
