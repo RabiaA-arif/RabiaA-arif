@@ -26,5 +26,6 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=RabiaA-arif&show_icons=true&locale=en&layout=compact" alt="Rabia Arif" /></p>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=RabiaA-arif&show_icons=true&locale=en" alt="Rabia Arif" /></p>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=RabiaA-arif&" alt="Rabia Arif" /></p>
+[![GitHub Streak](https://streak-stats.demolab.com?user=RabiaA-arif&theme=dark&mode=weekly&hide_total_contributions=true&hide_current_streak=true&hide_longest_streak=true)](https://git.io/streak-stats)
 
 
