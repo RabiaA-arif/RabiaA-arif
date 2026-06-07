@@ -25,7 +25,7 @@
 ### 🛠 Languages and Tools
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,sklearn,pytorch,pandas,numpy,docker,gitlab,mysql,git,github,vscode,colab" />
+    <img src="https://skillicons.dev/icons?i=python,sklearn,pytorch,pandas,numpy,django,docker,gitlab,mysql,bash,git,github,vscode,colab" />
   </a>
 </p>
 
