@@ -5,15 +5,15 @@
 
 - 🔭 I’m currently working on **MY ML Projects**
 
-- 🌱 I’m currently learning **MLOops**
+-  I’m currently learning **MLOops**
 
-- 👨‍💻 All of my projects are available at [https://www.linkedin.com/in/rabia-arif-80a01326b/](https://www.linkedin.com/in/rabia-arif-80a01326b/)
+-  All of my projects are available at [https://www.linkedin.com/in/rabia-arif-80a01326b/](https://www.linkedin.com/in/rabia-arif-80a01326b/)
 
-- 📫 How to reach me **rabiaarifai55@gmail.com**
+-  How to reach me **rabiaarifai55@gmail.com**
 
 - ⚡ Fun fact **I am good in listening and understanding**
 
-### 🤝 Connect with me:
+###  Connect with me:
 <p align="left">
 <a href="https://www.linkedin.com/in/rabia-arif-80a01326b/" target="blank"><img align="center" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
 <a href="https://twitter.com/Rabia_Arif84" target="blank"><img align="center" src="https://img.shields.io/badge/X-%23121011.svg?style=for-the-badge&logo=x&logoColor=white" alt="Twitter" /></a>
