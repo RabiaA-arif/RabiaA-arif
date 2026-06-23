@@ -3,7 +3,7 @@
 <h3 align="center">Python | ML Engineer"</h3>
 <img  align="right" alt="coding" width="400" src="https://github.com/RabiaA-arif/RabiaA-arif/blob/main/avento.gif">
 
-- 🔭 I’m currently working on **MY ML Projects**
+-  I’m currently working on **MY ML Projects**
 
 -  I’m currently learning **MLOops**
 
@@ -11,7 +11,7 @@
 
 -  How to reach me **rabiaarifai55@gmail.com**
 
-- ⚡ Fun fact **I am good in listening and understanding**
+-  Fun fact **I am good in listening and understanding**
 
 ###  Connect with me:
 <p align="left">
