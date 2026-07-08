@@ -20,7 +20,7 @@
 <a href="https://www.kaggle.com/rabiaarif123" target="blank"><img align="center" src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white" alt="Kaggle" /></a>
 <a href="https://github.com/RabiaA-arif" target="blank"><img align="center" src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
 <img align="center" src="https://img.shields.io/badge/Discord-rabiaarif0544-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" />
-</p>
+
 
 ### 🛠 Languages and Tools
 <p align="left">
