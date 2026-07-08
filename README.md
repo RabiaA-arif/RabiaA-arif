@@ -29,7 +29,8 @@
   </a>
 </p>
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=RabiaA-arif&theme=dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D )](https://git.io/streak-stats )
+[![GitHub Streak](https://streak-stats.vercel.app/?user=RabiaA-arif&theme=dark&hide_border=true )](https://git.io/streak-stats )
+
 
 [![Rabia's GitHub stats](https://github-readme-stats-fast.vercel.app/api?username=RabiaA-arif&show_icons=true&theme=dark&hide_border=true )](https://github.com/anuraghazra/github-readme-stats )
 
